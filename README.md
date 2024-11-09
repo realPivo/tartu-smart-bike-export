@@ -32,3 +32,6 @@ This repository contains a small collection of scripts for exporting your rides 
 6. Paste same token to `get_routes_info.js` too.
 7. Run `get_routes_info.js` in the Console by pressing **Enter**.
 8. Set the downloaded .json file path in `routes_map.ipynb` to generate `routes_map.html`.
+
+## Map example
+https://github.com/user-attachments/assets/91fc7e4a-a8ee-497c-8229-45e545aed2e3
